@@ -1,3 +1,4 @@
+![IMG_20220601_150908_598](https://user-images.githubusercontent.com/106745862/171629306-7034a4cb-bb98-40ac-b793-ae2a08964bc5.jpg)
 ---
 title: Telling Git about your signing key
 intro: 'To sign commits locally, you need to inform Git that there''s a GPG or X.509 key you''d like to use.'
